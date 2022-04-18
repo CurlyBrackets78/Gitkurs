@@ -1,1 +1,2 @@
-Alex has a cat.
+Alex has a dog and cat.
+Adding new experimental functionality.
